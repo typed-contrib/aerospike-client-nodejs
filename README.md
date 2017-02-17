@@ -46,9 +46,8 @@ Some resources to help writing Typescript type definitions:
 
 ## Tests
 
-This type definitions are tested using source `aerospike-client-nodejs` `samples` and `services` tests.
- * [Samples](https://github.com/Azure/aerospike-client-nodejs/tree/master/examples/samples)
- * [Services](https://github.com/Azure/aerospike-client-nodejs/tree/master/test/services)
+This type definitions are tested using source `aerospike-client-nodejs` `examples`.
+ * [Samples](https://github.com/aerospike/aerospike-client-nodejs/tree/master/examples)
 
 ## License
 
