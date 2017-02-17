@@ -1,0 +1,34 @@
+{
+  "name": "@types/aerospike",
+  "version": "2.4.4",
+  "description": "Type definitions for https://github.com/aerospike/aerospike-client-nodejs",
+  "homepage": "https://github.com/typed-contrib/aerospike-client-nodejs#readme",
+  "main": "lib/aerospike.d.ts",
+  "author": "typed-contrib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/typed-contrib/aerospike-client-nodejs/issues"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "typings install && tsc -p . && cd tests && typings install && tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typed-contrib/aerospike-client-nodejs.git"
+  },
+  "devDependencies": {
+    "typescript": "^2.1.6"
+  },
+  "keywords": [
+    "typings",
+    "definitions",
+    "typescript",
+    "typed",
+    "types",
+    "aerospike",
+    "client"
+  ]
+}
