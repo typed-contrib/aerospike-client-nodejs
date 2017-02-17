@@ -20,7 +20,8 @@
     "url": "git+https://github.com/typed-contrib/aerospike-client-nodejs.git"
   },
   "devDependencies": {
-    "typescript": "^2.1.6"
+    "typescript": "^2.1.6",
+    "typings": "^2.1.0"
   },
   "keywords": [
     "typings",
