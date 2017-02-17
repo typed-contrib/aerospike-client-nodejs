@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "aerospike": "file:../typings.json",
+    "yargs": "registry:npm/yargs#5.0.0+20160907000723"
+  },
+  "globalDependencies": {
+    "node": "registry:env/node#6.0.0+20170213133316"
+  }
+}
